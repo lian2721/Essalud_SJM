@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// Modelo de datos principal
 namespace Essalud_SJM
 {
     public class Atencion
